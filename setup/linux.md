@@ -21,3 +21,12 @@ Installed WSL2 and Ubuntu using PowerShell:
 ```powershell
 wsl --install
 ```
+
+## Workspace
+
+- `~/projects` - GitHub repos, including `machine-setup/` (this repo: shared `.gitconfig`, setup docs) and `agent-scripts/`
+
+The workspace root also contains:
+
+- `.gitconfig` -> `~/projects/.gitconfig`
+- `~/.claude/AGENTS.md` -> `~/projects/agent-scripts/AGENTS.md`
