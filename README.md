@@ -2,6 +2,11 @@
 
 Machine setup guides, configurations, dotfiles, and utility scripts.
 
+<img width="100%" alt="m" src="https://github.com/user-attachments/assets/6ad73c49-0d81-4ce7-bc0f-3190791e4989" />
+
+
+
+
 ## System setup
 
 Here are the setup details for my laptops.
