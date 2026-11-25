@@ -36,6 +36,7 @@ The workspace root also contains:
 ```bash
 
 sudo apt install -y curl                             # curl - Transfer data with URLs
+sudo apt install -y tree                             # Tree - Directory structure visualizer
 
 sudo apt install -y git                              # Git - Version control
 sudo apt install -y gh                               # GitHub CLI - Interact with GitHub from the terminal
