@@ -28,8 +28,8 @@ wsl --install                                        # wsl - windows subsytem fo
 
 The workspace root also contains:
 
-- `.gitconfig` -> `~/projects/.gitconfig`
-- `~/.claude/AGENTS.md` -> `~/projects/agent-scripts/AGENTS.md`
+- `.gitconfig` -> `~/projects/machine-setup/dotfiles/.gitconfig`
+- `AGENTS.md` -> `~/projects/agent-scripts/AGENTS.md`
 
 ## Install tools
 
