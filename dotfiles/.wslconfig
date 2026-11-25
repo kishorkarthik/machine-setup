@@ -1,2 +1,14 @@
 [wsl2]
+# Networking
 networkingMode=mirrored
+
+# Resource allocation
+memory=8GB
+processors=6
+swap=2GB
+
+# Memory management
+autoMemoryReclaim=gradual
+
+# Disk management
+sparseVhd=true
