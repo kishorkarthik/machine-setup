@@ -16,7 +16,8 @@ Here are the setup details for my laptops.
 
 Tools and configurations across my machines.
 
-- [Visual Studio Code](setup/vscode.md)
+- [Visual Studio Code](tools/vscode.md)
+- [Tools/Web](tools/web)
 
 ## Dropbox
 

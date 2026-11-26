@@ -13,4 +13,5 @@ code --install-extension ms-vscode-remote.remote-wsl
 code --install-extension openai.chatgpt
 code --install-extension openai.codex-audio
 code --install-extension ritwickdey.liveserver
+code --install-extension yzhang.markdown-all-in-one
 ```
