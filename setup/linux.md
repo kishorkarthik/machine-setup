@@ -19,7 +19,7 @@ running Ubuntu 26.04.1 LTS on Windows 11 through WSL2.
 Installed WSL2 and Ubuntu using PowerShell:
 
 ```bash
-wsl --install                                        # wsl - windows subsytem for linux
+wsl --install                                        # wsl - windows subsystem for linux
 ```
 
 ## Workspace
