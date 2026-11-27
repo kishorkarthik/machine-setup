@@ -46,7 +46,6 @@ curl -LsSf https://astral.sh/uv/install.sh | sh      # uv - Python package and p
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash # NVM - Node.js version manager
 nvm install 26.13.1                                  # Node.js - JavaScript runtime (includes npm 11.20.0)
 
-code --install-extension ms-vscode-remote.remote-wsl # WSL - Connect VS Code to WSL environments
 npm install -g @anthropic-ai/claude-code             # Claude Code - AI coding assistant
 
 uvx duckduckgo-mcp-server --help                     # DuckDuckGo MCP Server - Web search for AI agents
