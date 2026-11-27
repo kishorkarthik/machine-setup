@@ -4,9 +4,6 @@ Machine setup guides, configurations, dotfiles, and utility scripts.
 
 <img width="100%" alt="m" src="https://github.com/user-attachments/assets/6ad73c49-0d81-4ce7-bc0f-3190791e4989" />
 
-
-
-
 ## System setup
 
 Here are the setup details for my laptops.
@@ -18,6 +15,16 @@ Tools and configurations across my machines.
 
 - [Visual Studio Code](tools/vscode.md)
 - [Tools/Web](tools/web)
+
+## Usernames
+
+Different environments on my machine use distinct usernames:
+
+| Environment       | Username        | Path / Context                                                  |
+| :---------------- | :-------------- | :-------------------------------------------------------------- |
+| **Windows**       | `kisho`         | `C:\Users\kisho\` (truncated by Windows from Microsoft account) |
+| **WSL2 (Ubuntu)** | `karthik`       | `/home/karthik/`                                                |
+| **GitHub**        | `kishorkarthik` | Git commits and repository ownership                            |
 
 ## Dropbox
 
